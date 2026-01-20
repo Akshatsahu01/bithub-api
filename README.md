@@ -1,2 +1,5 @@
-# bithub-api
-i have created this repo because i want to build a website and do some experiment with it 
+# BeatHub API
+
+Welcome to the backend of BeatHub.
+- Status: Initial Setup
+- Developer: [Your Name]
