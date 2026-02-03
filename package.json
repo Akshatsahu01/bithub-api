@@ -1,0 +1,26 @@
+{
+  "name": "bithub-api",
+  "version": "1.0.0",
+  "description": "Welcome to the backend of BeatHub.\r - Status: Initial Setup\r - Developer: [Your Name]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshatsahu01/bithub-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Akshatsahu01/bithub-api/issues"
+  },
+  "homepage": "https://github.com/Akshatsahu01/bithub-api#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.5"
+  }
+}
